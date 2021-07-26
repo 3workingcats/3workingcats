@@ -1,6 +1,6 @@
 layout: page
 title: "筆記整理工具"
-permalink: /test/
+permalink: /
 
 為了整理一些資料，把先前買過／下載過的幾個筆記整理工具拿出來重新測試比較一下，結果是：
 
